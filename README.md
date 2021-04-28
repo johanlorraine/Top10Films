@@ -1,4 +1,4 @@
-#Top 15 Highest Grossing Films from 1975-2018
+# Top 15 Highest Grossing Films from 1975-2018
 Jo Alvarado
 
 This dataset, downloaded from [Kaggle](https://www.kaggle.com/bidyutchanda/top-10-highest-grossing-films-19752018) contains information for the top ten highest grossing Hollywood films of each year from 1975 to 2018.
