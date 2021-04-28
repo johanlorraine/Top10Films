@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+#Top 15 Highest Grossing Films from 1975-2018
+Jo Alvarado
 
-You can use the [editor on GitHub](https://github.com/johanlorraine/Top15Films/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This dataset, downloaded from [Kaggle](https://www.kaggle.com/bidyutchanda/top-10-highest-grossing-films-19752018) contains information for the top ten highest grossing Hollywood films of each year from 1975 to 2018.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TODO: Put visualization here
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johanlorraine/Top15Films/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The above visualization contains the top 15 highest grossing films between 1975 and 2018, scattered by the film's worldwide gross and IMDB rating. It appears that there is not a correlation between higher ratings and higher gross earnings. Avatar is, by far, the highest grossing film, followed by Titanic.
